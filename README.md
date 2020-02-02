@@ -23,7 +23,7 @@ https://www.data.go.kr/
 
 <img src = "https://user-images.githubusercontent.com/34640735/73611688-a5598e00-4627-11ea-8fba-c5910113d9c9.png"> </img>
 
-doit 안드로이드 프로그래밍에서 배운 예제를 활용해서 프래그먼트를 이용해서 파싱을 하는 방식을 구현
+doit 안드로이드 프로그래밍에서 배운 예제를 활용해서 프래그먼트와 리사이클러 뷰를 이용해서 파싱을 하는 방식을 구현
 
 <img src = "https://user-images.githubusercontent.com/34640735/73611696-b1dde680-4627-11ea-897d-570f54521a5a.png"> </img>
 
