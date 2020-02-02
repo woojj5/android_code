@@ -11,6 +11,9 @@ https://www.data.go.kr/
 
 <img src = "https://user-images.githubusercontent.com/34640735/73611666-63c8e300-4627-11ea-929f-ff0257a82a5b.png"> </img>
 
+여기서 제공되는 Open API를 파싱해서, 필요한 데이터들을 가져오는 작업을 시행, 이를 위해서는 기권에서 발급해준 key 값과 입력값에 맞는 api 또한 찾아야 한다 
+
+
 <img src = "https://user-images.githubusercontent.com/34640735/73611671-6d524b00-4627-11ea-8666-dee786864758.png"> </img>
 
 <img src = "https://user-images.githubusercontent.com/34640735/73611686-9ecb1680-4627-11ea-8790-642a14b12a1a.png"> </img>
