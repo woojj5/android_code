@@ -14,6 +14,8 @@ https://www.data.go.kr/
 여기서 제공되는 Open API를 파싱해서, 필요한 데이터들을 가져오는 작업을 시행, 이를 위해서는 기권에서 발급해준 key 값과 입력값에 맞는 api 또한 찾아야 한다 
 또한 이러한 파싱을 하기 위해서는 AndroidManifest.xml에 코드를 추가해 줘야 합니다
 
+<img src = "https://user-images.githubusercontent.com/34640735/73611838-75ab8580-4629-11ea-90c2-562061c31967.png"> </img>
+
 
 <img src = "https://user-images.githubusercontent.com/34640735/73611686-9ecb1680-4627-11ea-8790-642a14b12a1a.png"> </img>
 
